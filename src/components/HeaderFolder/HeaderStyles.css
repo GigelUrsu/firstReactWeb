@@ -1,0 +1,11 @@
+.header {
+  background-color:rgb(143, 143, 143);
+  font-size:50px;
+  padding-bottom: 50px;
+}
+
+.headerUl{
+  display: flex;
+  justify-content: space-around;
+}
+

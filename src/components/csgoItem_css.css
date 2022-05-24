@@ -1,0 +1,12 @@
+.csgoItem{
+    background-color: rgb(54, 13, 13);
+    color:white;
+    border-radius: 50px;
+    padding:5px;
+    margin:10px auto;
+    justify-content: center;
+    display: flex;
+    width: 40%;
+    border: solid 3px rgb(0, 0, 0);
+
+}
